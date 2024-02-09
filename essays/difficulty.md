@@ -4,14 +4,11 @@ type: essay
 title: "Reflection on Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: true
-labels:
-  - Engineering
 ---
 
 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Reflection: The Importance of Coding Standards.*
 
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
