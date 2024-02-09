@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Coding Standards"
+title: "The Importance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 ---
