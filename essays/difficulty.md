@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Reflection on Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-02-08
 published: true
 labels:
   - Engineering
