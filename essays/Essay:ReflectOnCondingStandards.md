@@ -14,6 +14,6 @@ Being able to code should not be the only thing a programmer is proficient at. Y
 
 The quality of the code is just as important as the code working. This applies specially in work environments where people need to work as a team to accomplish a task.
 
-##Using ESLint with IntelliJ
+## Using ESLint with IntelliJ
 
 Using ESLint with IntelliJ has been a welcome challenge. The use of ESLint has been both a painful and rewarding experience. Trying to get the green checkmark has been quiet difficult at times, but is expected to get easier the more it is used and the more experience and practice one gets.
