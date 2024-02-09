@@ -10,6 +10,8 @@ date: 2024-02-08
 
 *Reflection: The Importance of Coding Standards.*
 
+Being able to code should not be the only thing a programmer is proficient at. Yes, the code works, but what happens when someone or a person from a team has to read and understand the code but it is all over the place? Instead of making the work easier but completing and creating a working program, they are now face with a program that is difficult to read and understand, making their job more difficult than easy.
+
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
 Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
