@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "The Wonders of UI Frameworks"
+title: "The Typescript Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2024-09-05
 ---
 
-## UI Frameworks And Their Advantages
-Bootstrap 5 is a popular CSS framework. The framework provides advantages such as being able to modify and change colors, layouts, and style of a website/project. Bootstrap provides easy to use features that can make a project easier and faster to optimize and design. Learning Bootstrap 5 and how to use UI Frameworks in general really did make it seem like learning a new programming language. It can be just as complicated and at times even more frustrating than programming and both can be very time consuming.
+## Typescript and Other Programming Languages
+Through out all of my programming career so far, the only languages I have used are Java and a little bit of C and Javascript. After doing the first practice WOD and learning a little bit about Typescript, I found out that it is very similar to Java and Javascript. I have not done/finished my ES6 or Professional Portfolio yet. The WOD/Practice WODs are the only experience I have with Typescript so far, so I don't have a lot of things to say about the language. However, that would probably change the next following weeks of the semester, as I get more hands-on experience in programming using Typescript.
 
-## What about raw HTML/CSS?
-Now, why not just use raw HTML and CSS? The answer is yes, you can. Raw HTML/CSS do give the user complete control over the design and use of a website. However, UI Frameworks makes it simpler and faster, with their easy to use features, to create a project or website. Simply put, both UI Frameworks and raw HTML/CSS have their own advantages and disadvantages. It is up to the user which they prefer or which they are more comfortable in using.
+## Are Practice WODs Useful?
+I find the practice WODs very useful. Especially to someone like me who has no prior experience in using Typescript. The practice WODs are a great learning tool not only to prepare for the actual WODs but also in learning how to use Typescript. 
+
+Learning how to code is like learning MATH to me. I need constant practice and exposure in order to learn and be proficient at it. If I do not get constant practice and exposure at something, I tend to forget them. That is probably why I am bad at coding. I don't practice as much. That is something I am trying to change because I know it will help me alot in the future.
 
