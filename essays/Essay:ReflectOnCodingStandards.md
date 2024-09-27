@@ -16,17 +16,17 @@ Being able to code should not be the only thing a programmer is proficient at. Y
 
 Using ESLint with VSCode has been a welcome challenge. The use of ESLint has been both a painful and rewarding experience. Trying to get rid of those irritating red squiggly lines has been quiet difficult at times, but is expected to get easier the more it is used and the more experience and practice one gets.
 
-<p>
-  <img width="900px" class="rounded float-start pe-4" src="https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-1.png">
-</p>
+
+![Alt text for the image](https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-1.png)
+
 
 
 The image above displays an example of bad typecript code using VSCode. After ESLint was installed, VSCode reports thirty-two errors. Now compare it to the image below after the errors were fixed.
 
 
-<p>
-  <img width="900px" class="rounded float-start pe-4" src="https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-3.png">
-</p>
+
+![Alt text for the image](https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-3.png)
+
 
 
 With ESLint, we were able to find the errors and easily fix them. Also, see how much better and cleaner the code looks compared to the previous one with the errors and red squiggly lines. ESLint helps to not only identify errors but also how to fix them. This way our code can be more consistent and we can avoid bugs, styling errors, etc. This has been our first week working with ESLint and I will be looking forward to the following weeks that we will be using it.
