@@ -17,7 +17,7 @@ Being able to code should not be the only thing a programmer is proficient at. Y
 Using ESLint with VSCode has been a welcome challenge. The use of ESLint has been both a painful and rewarding experience. Trying to get rid of those irritating red squiggly lines has been quiet difficult at times, but is expected to get easier the more it is used and the more experience and practice one gets.
 
 
-![Alt text for the image](https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-1.png)
+<img src="https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-1.png" alt="Alt text for the image" width="600" />
 
 
 
@@ -25,7 +25,7 @@ The image above displays an example of bad typecript code using VSCode. After ES
 
 
 
-![Alt text for the image](https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-3.png)
+<img src="https://courses.ics.hawaii.edu/ics314f24/morea/coding-standards/experience-fix-bad-typescript-3.png" alt="Alt text for the image" width="600" />
 
 
 
