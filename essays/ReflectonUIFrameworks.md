@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Bootstrap vs HTML/CSS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-10-10
 ---
 
 ## UI Frameworks And Their Advantages
