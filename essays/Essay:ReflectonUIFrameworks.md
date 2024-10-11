@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The Typescript Experience"
+title: "Bootstrap vs HTML/CSS"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-10-10
 ---
 
 ## UI Frameworks And Their Advantages
@@ -15,3 +15,12 @@ a new programming language. It can be just as complicated and at times even more
 Now, why not just use raw HTML and CSS? The answer is yes, you can. Raw HTML/CSS do give the user complete control over the design and use of a website. However, UI Frameworks makes things simpler 
 and faster, with their easy to use features, to create a project or website. Simply put, both UI Frameworks and raw HTML/CSS have their own advantages and disadvantages. It is up to the user which 
 they prefer or which they are more comfortable in using.
+
+The first image below was made using HTML and CSS while the second image was made using Bootstrap 5. With Bootstrap 5, we were able to add the icons at the top, middle and bottom and incorporate the image and logo in the middle and the footer rather easily.
+
+#### Made with HTML and CSS
+<img src="https://courses.ics.hawaii.edu/ics314f24/morea/ui-frameworks/experience-browser-history.png" alt="Alt text for the image" width="600">
+
+#### Made with Bootstrap 5
+<img src="https://courses.ics.hawaii.edu/ics314f24/morea/ui-frameworks/experience-islandsnow-bootstrap.png" alt="Alt text for the image" width="600" />
+
