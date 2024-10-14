@@ -13,7 +13,7 @@ a new programming language. It can be just as complicated and at times even more
 
 ## What about raw HTML/CSS?
 Now, why not just use raw HTML and CSS? The answer is yes, you can. Raw HTML/CSS do give the user complete control over the design and use of a website. However, UI Frameworks makes things simpler 
-and faster, with their easy to use features, to create a project or website. Simply put, both UI Frameworks and raw HTML/CSS have their own advantages and disadvantages. It is up to the user which 
+and faster, with their easy to use features, to create a project or website. Simply put, both UI Frameworks and raw HTML/CSS have their own advantages and disadvantages. It is up to the user which one 
 they prefer or which they are more comfortable in using.
 
 The first image below was made using HTML and CSS while the second image was made using Bootstrap 5. With Bootstrap 5, we were able to add the icons at the top, middle and bottomof the page and incorporate 
